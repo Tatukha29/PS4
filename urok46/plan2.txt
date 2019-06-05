@@ -1,0 +1,6 @@
+1. input Добавить атрибут type=file
+2. Добавиь в тег form атрибут enctype="multipart/form-data"
+3. Для input-а с type="file" Добавить атрибут name="image"
+4. Применить move_uploaded_file, прописать два аргумента:
+			a. $tmp_name
+			b. назв. загр.
